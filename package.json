@@ -2,6 +2,7 @@
   "name": "elasticsearchwithnode",
   "version": "1.0.0",
   "description": "",
+  "keywords" : ["elastic search","node js", "martand", "kibana", "node with elastic"],
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +13,7 @@
     "url": "git+https://github.com/martandsingh/ElasticsearchNodeJs.git"
   },
   "author": "Martand Singh (martandsays@gmail.com)",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/martandsingh/ElasticsearchNodeJs/issues"
   },
