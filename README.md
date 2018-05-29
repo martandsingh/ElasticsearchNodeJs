@@ -9,7 +9,7 @@ This tutorials will help you to understand : <br/>
 Tutorial contains two files: <br/>
 1. ElasticMethods.js - which contains all the method to perform elastic search operations. <br/>
 2. Server.js - Where we will consume all the elastic methods.
-
+<h2>For output follow images present in the images folder.</h2>
 <b>Note: I have commented all the methods in the server.js, so that you can uncomment them one by one and understand whats happening there.
 Try all methods with your custom input and check out the output.</b>
 
