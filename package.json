@@ -1,0 +1,23 @@
+{
+  "name": "elasticsearchwithnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martandsingh/ElasticsearchNodeJs.git"
+  },
+  "author": "Martand Singh (martandsays@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martandsingh/ElasticsearchNodeJs/issues"
+  },
+  "homepage": "https://github.com/martandsingh/ElasticsearchNodeJs#readme",
+  "dependencies": {
+    "elasticsearch": "^15.0.0"
+  }
+}
